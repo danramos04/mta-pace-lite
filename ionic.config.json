@@ -1,0 +1,7 @@
+{
+  "name": "mta-pace-lite",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
